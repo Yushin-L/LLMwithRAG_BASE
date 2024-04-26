@@ -31,3 +31,6 @@ Deploy path
 3. create OpenAI Compatible server with llama-cpp/Llama-3
 
 4. create a Gradio server with BGE-M3 to create embedding vectors
+
+
+** 같은 IP 위의 Docker container는 network로 묶어서 사용하면 편합니다.
