@@ -29,4 +29,4 @@ Deploy path
 
 3. create OpenAI Compatible server with llama-cpp/Llama-3
 
-4. create Gradio server with BGE-M3 for question to embed
+4. create a Gradio server with BGE-M3 to create embedding vectors
