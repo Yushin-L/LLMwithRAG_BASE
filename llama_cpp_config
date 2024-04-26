@@ -1,0 +1,14 @@
+{
+    "host": "0.0.0.0",
+    "port": 7860,
+    "models": [
+        {
+            "model": "Meta-Llama-3-8B-Instruct.Q4_1.gguf",
+            "model_alias": "llama-3-8b-it-q4",
+            "chat_format": "llama-3",
+            "n_gpu_layers": -1,
+            "n_ctx":8192,
+            "n_batch":1
+        }
+    ]
+}
