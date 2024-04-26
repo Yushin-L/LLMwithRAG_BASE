@@ -8,6 +8,7 @@ Web demo : gradio(4.28)
 
 RAG data : 한국어 대학 강의 데이터(https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=data&dataSetSn=71627)
 
+Data path
 1. USER -> Gradio : Question
 
 2. Gradio -> BGE-M3 server : Question
@@ -21,6 +22,7 @@ RAG data : 한국어 대학 강의 데이터(https://www.aihub.or.kr/aihubdata/d
 6. Gradio -> USER : Answer
 
 
+Deploy path
 1. create milvus standalone server with docker : "wget https://github.com/milvus-io/milvus/releases/download/v2.4.0/milvus-standalone-docker-compose.yml -O docker-compose.yml"
 
 2. 한국어 대학 강의 데이터(JSON->CSV) -> embedded by bge-m3 / stored in milvus collection
