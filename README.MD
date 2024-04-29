@@ -1,4 +1,4 @@
-LLM : "QuantFactory/Meta-Llama-3-8B-Instruct-GGUF" with llama_cpp(0.2.64) / GPT-4
+LLM : "QuantFactory/Meta-Llama-3-8B-Instruct-GGUF" with llama_cpp(0.2.64)
 
 Embedding model : "BAAI/bge-m3"
 
