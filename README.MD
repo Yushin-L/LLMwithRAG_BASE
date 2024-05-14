@@ -9,7 +9,8 @@ VectorDB : milvus(2.4.0)
 
 Web demo : gradio(4.28)
 
-RAG data : 한국어 대학 강의 데이터(https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=data&dataSetSn=71627)
+RAG data : 한국어 대학 강의 데이터
+(https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=data&dataSetSn=71627)
 ```
 
 ![캡처](https://github.com/Yusin-Lee/LLMwithRAG_BASE/assets/98385516/9d8aa95d-5453-41d4-b8e9-e6a229c3b47f)
