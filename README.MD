@@ -41,8 +41,6 @@ RAG data : 한국어 대학 강의 데이터
 4. Create a Gradio server with BGE-M3 to create embedding vectors
 ```
 
-** 같은 IP 위의 Docker container는 network로 묶어서 사용하면 편합니다.
-
 ** llama-cpp-python 설치 시, gpu 사용을 위해서 환경변수 설정이 필요할 수 있습니다.
 
 ** config로 llama-cpp서버 올리는 것은 https://llama-cpp-python.readthedocs.io/en/latest/server/#configuration-and-multi-model-support 를 참고하세요.
