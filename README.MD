@@ -46,3 +46,5 @@ RAG data : 한국어 대학 강의 데이터
 ** llama-cpp-python 설치 시, gpu 사용을 위해서 환경변수 설정이 필요할 수 있습니다.
 
 ** config로 llama-cpp서버 올리는 것은 https://llama-cpp-python.readthedocs.io/en/latest/server/#configuration-and-multi-model-support 를 참고하세요.
+
+** LLaMA-3의 한국어 능력에 문제가 있어 한국어에 대한 성능을 기대하고 사용할 수 없습니다.
